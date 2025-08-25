@@ -1,0 +1,12 @@
+{
+  "welcome": "Welcome",
+  "home": "Home",
+  "about": "About",
+  "contact": "Contact",
+  "language": "Language",
+  "persian": "Persian",
+  "english": "English",
+  "description": "This is a multilingual Nuxt project",
+  "learnMore": "Learn More",
+  "getStarted": "Get Started"
+}

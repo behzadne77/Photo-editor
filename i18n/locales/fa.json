@@ -1,0 +1,12 @@
+{
+  "welcome": "خوش آمدید",
+  "home": "خانه",
+  "about": "درباره ما",
+  "contact": "تماس با ما",
+  "language": "زبان",
+  "persian": "فارسی",
+  "english": "انگلیسی",
+  "description": "این یک پروژه Nuxt چند زبانه است",
+  "learnMore": "بیشتر بدانید",
+  "getStarted": "شروع کنید"
+}
